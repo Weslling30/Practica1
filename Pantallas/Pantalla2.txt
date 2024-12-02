@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pantalla 2</title>
+</head>
+<body>
+    <!-- Fondo de arriba -->
+    <figure>
+        <img src="imagenes/fondo.jpg" alt="fondo">
+    </figure>
+
+    <!-- Logo -->
+    <header>
+        <figure>
+            <img src="imagenes/logo.jpg" alt="logo" width="60" height="60">
+        </figure>
+    </header>
+
+    <!-- Iconos -->
+    <figure>
+        <img src="imagenes/menu.png" alt="menú" width="40" height="40">
+        <img src="imagenes/carrito.png" alt="carrito" width="40" height="40">
+        <img src="imagenes/perfil.png" alt="perfil" width="40" height="40">
+        <img src="imagenes/busqueda.png" alt="busqueda" width="40" height="40">
+    </figure>
+
+    <main>
+        <figure>
+            <img src="imagenes/tenis.png" alt="tenis" width="50" height="50">
+            <figcaption>Nike Dunk Low Retro<br>
+            "Black and White"<br>
+            Precio: $115.00<br>
+            Size: M8/W9.5</figcaption>
+        </figure>
+
+        <blockquote>
+            Subtotal                   210,00 US$<br>                            
+            Gastos de envío estimados   20,00 US$<br>                 
+            Impuestos estimados          8,64 US$<br>                           
+            Total                      248,64 US$<br>
+            <a href="#"><h2>Pagar</h2></a>
+        </blockquote>
+    </main>
+</body>
+</html>
