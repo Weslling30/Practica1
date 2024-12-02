@@ -6,7 +6,7 @@
 </head>
 
 
-<table>
+<table border="1">
 <tr>
 <td><img src="RD1.png" alt="RD" width="50%">></td>
 </tr>
