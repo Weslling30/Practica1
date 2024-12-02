@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zxx">
 <body>
 <head>
@@ -7,10 +7,17 @@
 
 
 <table border="1">
+
 <tr>
-<td><img src="RD1.png" alt="RD" width="50%">></td>
+<th>Pais</th>
+<th>Biografía</th>
+<th>Himno</th>
+<th>Enlace</th>
 </tr>
-<tr><td>Rep�blica Dominicana es un pa�s de Am�rica situado en el Caribe, 
+<tr>
+<td><img src="imagenes/RD1.png" alt="RD" width="100%"></td>
+
+<td>Rep�blica Dominicana es un pa�s de Am�rica situado en el Caribe, 
 ubicado en la zona central de las Antillas; 
 ocupa la parte central y oriental de la isla La Espa�ola. 
 Su capital y ciudad m�s poblada es Santo Domingo. 
@@ -19,7 +26,26 @@ que lo separa de Puerto Rico, al sur con el mar Caribe, y al oeste con Hait�,
 que es el otro pa�s situado en La Espa�ola. Con 48 448 km�7? y una poblaci�n superior a 
 los 11,4 millones de habitantes en septiembre de 2024,12? es el segundo pa�s m�s extenso 
 de los pa�ses insulares caribe�os, despu�s de Cuba, y el tercero m�s poblado, despu�s de Hait� y Cuba.</td>
+<td><iframe width="560" height="315" src="https://www.youtube.com/embed/aV2DNe3vTfc?si=z0vL-oEyk9UBNPOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
 <td><a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana" target="_blank">Rep�blica Dominicana
+ en Wikipedia</a></td>
+</tr>
+
+<tr>
+<td><img src="imagenes/estadosunidos.png" alt="EU" width="100%"></td>
+
+<td>Estados Unidosnota 2​ (EE. UU.; en inglés: United States o US),nota 3​ denominado oficialmente Estados Unidos de América (EUA; en inglés: United States of America o USA)13​ es un país soberano constituido en una república federal constitucional compuesta por cincuenta estados y un distrito federal. Limita al norte con Canadá y al sur, con México. Su capital es Washington D. C. y su ciudad más poblada, Nueva York. La mayor parte del país se ubica en el medio de América del Norte ―donde se encuentran sus 48 estados contiguos y Washington D. C.―, entre los océanos Pacífico y Atlántico.</td>
+<td><iframe width="560" height="315" src="https://www.youtube.com/embed/SEdR9LuyuqU?si=H0qbUyt4bhqaiNTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+<td><a href="https://es.wikipedia.org/wiki/Estados_Unidos" target="_blank">Estados Unidos
+ en Wikipedia</a></td>
+</tr>
+
+<tr>
+<td><img src="imagenes/mexico.png" alt="MX" width="100%"></td>
+
+<td>México,nota 1​ cuyo nombre oficial es Estados Unidos Mexicanos,14​ es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México.15​ De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas (31 estados y la capital).</td>
+<td><iframe width="560" height="315" src="https://www.youtube.com/embed/cDAjDDdPqvA?si=x7ZRlXnj7IuI2-AH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+<td><a href="https://es.wikipedia.org/wiki/M%C3%A9xico" target="_blank">México
  en Wikipedia</a></td>
 </tr>
 </table>
