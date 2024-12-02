@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+<meta charset="UTF-8">
+<title>Replicacion 2</title>
+</head>
+<body>
+<table border="1">
+<tr>
+<th colspan="2" align="center">Enero</th>
+<th colspan="2" align="center">Febrero</th>
+<th colspan="2" align="center">Marzo</th>
+</tr>
+<tr>
+<th>Nombre</th>
+<th>Apellido</th>
+<th>Ventas</th>
+<th>Compras</th>
+<th>Festivo</th>
+<th>Dietas</th>
+</tr>
+<td rowspan="2">Maria</td>
+<td>Rodriguez Valdez</td>
+<td rowspan="2" colspan="2">5000</td>
+<td>3/3/2004</td>
+<td>500</td>
+</tr>
+</table>
+</body>
+</html>
