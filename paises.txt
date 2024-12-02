@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<body>
+<head>
+<title>Hola</title>
+</head>
+
+
+<table border="1">
+<tr>
+<td><img src="RD1.png" alt="RD" width="50%">></td>
+</tr>
+<tr><td>Rep�blica Dominicana es un pa�s de Am�rica situado en el Caribe, 
+ubicado en la zona central de las Antillas; 
+ocupa la parte central y oriental de la isla La Espa�ola. 
+Su capital y ciudad m�s poblada es Santo Domingo. 
+Limita al norte con el oc�ano Atl�ntico, al este con el canal de la Mona, 
+que lo separa de Puerto Rico, al sur con el mar Caribe, y al oeste con Hait�, 
+que es el otro pa�s situado en La Espa�ola. Con 48 448 km�7? y una poblaci�n superior a 
+los 11,4 millones de habitantes en septiembre de 2024,12? es el segundo pa�s m�s extenso 
+de los pa�ses insulares caribe�os, despu�s de Cuba, y el tercero m�s poblado, despu�s de Hait� y Cuba.</td>
+<td><a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana" target="_blank">Rep�blica Dominicana
+ en Wikipedia</a></td>
+</tr>
+</table>
+</body>
+</html>

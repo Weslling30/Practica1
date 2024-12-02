@@ -9,14 +9,14 @@ Parte 1
 <body>
 	<main>
 	<h2>Historia de Bugatti</h2>
-	<p><strongs>Bugatti Automobiles S. A. S.</strongs> (comúnmente conocido como Bugatti) es un fabricante de automóviles superdeportivos y 
+	<p><strongs>Bugatti Automobiles S. A. S.</strongs> (comï¿½nmente conocido como Bugatti) es un fabricante de automï¿½viles superdeportivos y 
 	de carreras con sede en Molsheim, Francia.1? Fue fundada originalmente en 1909 por Ettore Bugatti (1881-1947).</p>
 
 	<p>Con el lema de "Nada puede ser demasiado hermoso, nada puede ser demasiado costoso",? los miembros de la familia Bugatti: Ettore; su hermano <strongs><em>Rembrandt Bugatti</em></strongs>, 
-	quien fue el escultor de la célebre mascota del Type 41 Royale, "el elefante"; y su hijo Jean, un talentoso diseñador y piloto,? diseñaron y construyeron durante 30 años una serie de automóviles lujosos 
-	que destacaron tanto por su rendimiento como por su diseño.</p>
+	quien fue el escultor de la cï¿½lebre mascota del Type 41 Royale, "el elefante"; y su hijo Jean, un talentoso diseï¿½ador y piloto,? diseï¿½aron y construyeron durante 30 aï¿½os una serie de automï¿½viles lujosos 
+	que destacaron tanto por su rendimiento como por su diseï¿½o.</p>
 	
-	<p>En noviembre de 2021, la compañía fue adquirida por el grupo <cite>Bugatti Rimac.</cite></p>
+	<p>En noviembre de 2021, la compaï¿½ï¿½a fue adquirida por el grupo <cite>Bugatti Rimac.</cite></p>
 	
 	</main>
 	
@@ -41,27 +41,27 @@ Parte 2
 	
 	<article>
 	<h2 id="introduccion">Introduccion</h2>
-	<pEl fundador Ettore Bugatti nació en Milán, Italia y la compañía de automóviles que lleva su 
-	nombre fue fundada en 1909 en Molsheim, ubicada en la región de Alsacia, que fue parte de Imperio alemán desde 1871 hasta 1919. La compañía era conocida tanto por el nivel de detalle de la ingeniería de sus automóviles, como por la elegante forma en que se ejecutaban los diseños, dada la naturaleza artística de la familia de Ettore. Su padre, Carlo (1856-1940), 
-	fue un importante diseñador de muebles y joyas de estilo modernista.></p>
+	<pEl fundador Ettore Bugatti naciï¿½ en Milï¿½n, Italia y la compaï¿½ï¿½a de automï¿½viles que lleva su 
+	nombre fue fundada en 1909 en Molsheim, ubicada en la regiï¿½n de Alsacia, que fue parte de Imperio alemï¿½n desde 1871 hasta 1919. La compaï¿½ï¿½a era conocida tanto por el nivel de detalle de la ingenierï¿½a de sus automï¿½viles, como por la elegante forma en que se ejecutaban los diseï¿½os, dada la naturaleza artï¿½stica de la familia de Ettore. Su padre, Carlo (1856-1940), 
+	fue un importante diseï¿½ador de muebles y joyas de estilo modernista.></p>
 
 	<h2 id="contenido">Contenido</h2>
-	<p>A finales de la Segunda Guerra Mundial la marca, como otras del sector, conoció dificultades económicas y no pudo recuperar el esplendor alcanzado en los años 1920 y 30, pero su prestigio mantuvo el interés por relanzarla como 
-	competidora de Maserati o Alfa Romeo durante los años 1950 y 1960.</p>
+	<p>A finales de la Segunda Guerra Mundial la marca, como otras del sector, conociï¿½ dificultades econï¿½micas y no pudo recuperar el esplendor alcanzado en los aï¿½os 1920 y 30, pero su prestigio mantuvo el interï¿½s por relanzarla como 
+	competidora de Maserati o Alfa Romeo durante los aï¿½os 1950 y 1960.</p>
 
 	<h2 id="conclusion">Conclusion</h2>
-	<p>Concluida la Guerra se libró una dura lucha para recuperar la fábrica. Apenas un mes después 
-	de la devolución en 1947, Ettore Bugatti murió, liquidando toda posibilidad de volver a las gloriosas épocas de antaño. Su hijo menor, Roland, se hizo cargo del negocio y, en 1956, lanzó el Type 251,10? que se convertiría en un fracaso, significando de paso la quiebra de la empresa, 
-	que vería cerradas sus puertas por un lapso de 35 años.</p>
+	<p>Concluida la Guerra se librï¿½ una dura lucha para recuperar la fï¿½brica. Apenas un mes despuï¿½s 
+	de la devoluciï¿½n en 1947, Ettore Bugatti muriï¿½, liquidando toda posibilidad de volver a las gloriosas ï¿½pocas de antaï¿½o. Su hijo menor, Roland, se hizo cargo del negocio y, en 1956, lanzï¿½ el Type 251,10? que se convertirï¿½a en un fracaso, significando de paso la quiebra de la empresa, 
+	que verï¿½a cerradas sus puertas por un lapso de 35 aï¿½os.</p>
 	</article>
 
 	<a href="10.jpg" dowload>imagen</a>
 	
 	
 	<aside>
-	<a href="https://www.bugatti.com/" target="_black">Bugatti</a>
-	<a href="https://www.ferrari.com/es-ES" target="_black">Ferrari</a>
-	<a href="https://www.lamborghini.com/es-en" target="_black">Lamborghini</a>
+	<a href="https://www.bugatti.com/" target="_blank">Bugatti</a>
+	<a href="https://www.ferrari.com/es-ES" target="_blank">Ferrari</a>
+	<a href="https://www.lamborghini.com/es-en" target="_blank">Lamborghini</a>
 	
 	</aside>
 </body>
